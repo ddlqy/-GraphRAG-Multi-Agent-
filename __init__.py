@@ -1,2 +1,3 @@
-"""GraphRAG + Multi-Agent 校园智能体系统"""
-__version__ = "0.1.0"
+"""工具集"""
+from .graph_funcs import GraphFuncs
+from .retriever import Retriever
