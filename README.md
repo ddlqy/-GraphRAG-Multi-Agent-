@@ -1,5 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32103310/README.md)
-
 # GraphRAG + Multi-Agent 校园智能体系统
 
 ## 项目简介
